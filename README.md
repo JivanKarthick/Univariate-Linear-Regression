@@ -8,9 +8,11 @@ To implement univariate Linear Regression to fit a straight line using least squ
 1.	Get the independent variable X and dependent variable Y.
 2.	Calculate the mean of the X -values and the mean of the Y -values.
 3.	Find the slope m of the line of best fit using the formula.
- ![eqn1](./eq1.jpg)
+ ![lll](https://user-images.githubusercontent.com/121165867/214660233-56ed38fc-2312-43ee-a26b-6d0bfdabac92.png)
+
 4.	Compute the y -intercept of the line by using the formula:
-![eqn2](./eq2.jpg)  
+![kkkkk](https://user-images.githubusercontent.com/121165867/214660316-98f74648-4ced-47ff-9598-391579114b19.png)
+  
 5.	Use the slope m and the y -intercept to form the equation of the line.
 6.	Obtain the straight line equation Y=mX+b and plot the scatterplot.
 ## Program
